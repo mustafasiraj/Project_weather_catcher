@@ -1,6 +1,7 @@
 # 🌤️ Simple Weather Info Fetcher using WeatherAPI
 
 This Python script allows users to input a **city name** and instantly fetches the **current weather** using [WeatherAPI](https://www.weatherapi.com/).
+- **if want to visit colab link: https://colab.research.google.com/drive/1C-LZ7bdoeCbJP94IOzw0wQaxa4--XAsK**
 
 ---
 
