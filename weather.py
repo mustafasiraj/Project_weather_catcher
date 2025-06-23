@@ -4,7 +4,7 @@ import requests
 city = input("Enter city name: ")
 
 # Use WeatherAPI's free demo endpoint
-url = f"http://api.weatherapi.com/v1/current.json?key=9370edf3d0494843bff94116252106&q={city}"
+url = f"http://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY={city}"
 
 # Make the GET request
 response = requests.get(url)
