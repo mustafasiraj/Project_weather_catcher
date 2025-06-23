@@ -27,7 +27,7 @@ This script uses a free WeatherAPI key (demo):
 python
 Copy
 Edit
-key = "9370edf3d0494843bff94116252106"
+key = "YOUR_API_KEY"
 
 ## ⚠️ For production use, please get your own API key to avoid quota issues.
 
