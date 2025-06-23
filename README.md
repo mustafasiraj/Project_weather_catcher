@@ -52,14 +52,12 @@ Enter city name: london
 ⛅ Condition: Partly cloudy
 ## 📂 Project Structure
 
-bash
 Copy
 Edit
 weather_app/
 │
 ├── weather.py        # Main Python script
 ├── README.md         # Documentation
-bash
 
 ## 🛡️ License
 This script is for educational/demo purposes. Use your own API key for production use.
